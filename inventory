@@ -1,0 +1,5 @@
+#ip's of servers to be managed by ansible
+192.168.8.144
+192.168.8.45
+192.168.8.163
+
